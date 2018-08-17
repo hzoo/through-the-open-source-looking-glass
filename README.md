@@ -8,8 +8,8 @@ At: [React Rally 2018](http://www.reactrally.com/schedule)
 
 ## Babel Song
 
-`SONG.md`: https://github.com/babel/babel/blob/master/SONG.md
-Youtube: https://www.youtube.com/watch?v=40abpedBKK8&feature=youtu.be
+- `SONG.md`: https://github.com/babel/babel/blob/master/SONG.md
+- Youtube: https://www.youtube.com/watch?v=40abpedBKK8&feature=youtu.be
 
 ## Other Related Talks
 
