@@ -1,7 +1,6 @@
-# through-the-open-source-looking-glass
-"Through the (Open Source) Looking Glass" React Rally 2018
+# Through the (Open Source) Looking Glass
 
-# [React Rally 2018](http://www.reactrally.com/schedule)
+> [React Rally 2018](http://www.reactrally.com/schedule)
 
 ## [Slides](https://www.henryzoo.com/through-the-open-source-looking-glass) | Video TBD | [Stream](https://youtu.be/ii-T6HrkZFM) | ~20min
 
