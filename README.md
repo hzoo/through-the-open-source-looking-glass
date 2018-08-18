@@ -1,8 +1,8 @@
 # Through the (Open Source) Looking Glass
 
-## [Slides](https://www.henryzoo.com/through-the-open-source-looking-glass) | Video TBD | [Stream](https://youtu.be/ii-T6HrkZFM) | ~20min
+## [Slides](https://www.henryzoo.com/through-the-open-source-looking-glass) | Video TBD | [Stream](https://youtu.be/ii-T6HrkZFM?t=5h29m42s) | ~20min
 
-[![](talk.png)](https://youtu.be/ii-T6HrkZFM)
+[![](talk.png)](https://youtu.be/ii-T6HrkZFM?t=5h29m42s)
 
 At: [React Rally 2018](http://www.reactrally.com/schedule)
 
