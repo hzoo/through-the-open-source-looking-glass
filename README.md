@@ -6,9 +6,16 @@
 
 At: [React Rally 2018](http://www.reactrally.com/schedule)
 
-## Babel Song
+## Babel Song (Hallelujah -- In Praise of Babel)
 
 [`SONG.md`](https://github.com/babel/babel/blob/master/SONG.md), [Youtube](https://www.youtube.com/watch?v=40abpedBKK8)
+
+## Quotes
+
+- "He doesn't call the qualified, but rather qualifies the called"
+- "You either die a hero, or live long enough to see yourself become the villain." -The Dark Knight
+- "...but that at last we should gain a habit, which will naturally produce its acts in us, without our care, and to our exceeding great delight." -Brother Lawrence
+- "The virtues of community sound like their opposites: diligence, patience, and humility." -Larry Wall
 
 ## Other Related Talks
 
